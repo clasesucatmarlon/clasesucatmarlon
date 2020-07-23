@@ -8,13 +8,7 @@
 - 👨‍💻 All of my projects are available at (https://github.com/clasesucatmarlon)
 
 
-
-<a href="https://github.com/clasesucatmarlon/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=clasesucatmarlon&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/clasesucatmarlon/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=clasesucatmarlon&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
 
 
 
