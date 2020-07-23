@@ -22,9 +22,9 @@ const magm = {
 }
 ```
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-<p align="center">
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=clasesucatmarlon)](https://github.com/clasesucatmarlon/github-readme-stats)
-</p>
+
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></p><p align="center">
 <a href="https://twitter.com/@garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@garciamarlon" height="25" width="25" /></a>
