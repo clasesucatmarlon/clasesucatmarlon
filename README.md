@@ -8,9 +8,6 @@
 - 👨‍💻 All of my projects are available at (https://github.com/clasesucatmarlon)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
-
-
 
 
 ```
@@ -24,9 +21,11 @@ const magm = {
   email: ["clasesucatmarlon@gmail.com", "gmarlonaurelio@gmail.com"],
 }
 ```
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+ <br>
+<center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
+ </center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=clasesucatmarlon)](https://github.com/clasesucatmarlon/github-readme-stats)
 
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></p><p align="center">
