@@ -13,3 +13,14 @@
 <a href="https://instagram.com/clasesmarlongarcia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clasesmarlongarcia" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCDq0Rtagu5yrjMRkPXRB6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="20" width="20" /></a>
 </p>
+
+
+```python
+const magm = {
+  pronouns: "her",
+  code: [c, Python, HTML, CSS, script shell],
+  tools: [vagrant],
+  architecture: ["web infraestructure"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on python"
+}
+```
