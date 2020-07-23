@@ -11,5 +11,5 @@
 <a href="https://linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marlonagarciam/" height="20" width="20" /></a>
 <a href="https://fb.com/gmarlonaurelio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gmarlonaurelio" height="20" width="20" /></a>
 <a href="https://instagram.com/clasesmarlongarcia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clasesmarlongarcia" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="20" width="20" /></a>
 </p>
