@@ -21,7 +21,7 @@ const magm = {
   email: ["clasesucatmarlon@gmail.com", "gmarlonaurelio@gmail.com"],
 }
 ```
- <br>
+
 <center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
  </center>
