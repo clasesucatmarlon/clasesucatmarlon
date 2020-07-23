@@ -34,8 +34,3 @@ const magm = {
 <a href="https://instagram.com/clasesmarlongarcia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clasesmarlongarcia" height="25" width="25" /></a>
 <a href="https://www.youtube.com/channel/UCDq0Rtagu5yrjMRkPXRB6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="25" width="25" /></a>
 </p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon)](https://github.com/clasesucatmarlon/github-readme-stats)
-
