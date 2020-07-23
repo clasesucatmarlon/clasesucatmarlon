@@ -31,3 +31,6 @@ const magm = {
 <a href="https://www.youtube.com/channel/UCDq0Rtagu5yrjMRkPXRB6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="25" width="25" /></a>
 </p>
 
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=clasesucatmarlon=true&hide_border=true)
