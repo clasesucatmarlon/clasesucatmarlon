@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marlon García</h1>
 
-👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira (Class of 2001) </br>
-👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela
+👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira (Class of 1996) </br>
+👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela (Class of 2001)
 
 
 <h3 align="center">A passionate developer from Venezuela in Colombia</h3>
@@ -10,10 +10,11 @@
 
 
 
-```python
+```
+# lenguaje python
 const magm = {
   pronouns: "her",
-  code: [c, Python, HTML, CSS, script shell],
+  code: [C, Python, HTML, CSS, script bash],
   tools: [vagrant],
   architecture: ["web infraestructure"],
   challenge: "I am doing the #100DaysOfCode challenge focused on python",
