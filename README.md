@@ -37,6 +37,6 @@ const magm = {
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=matlab])](https://github.com/clasesucatmarlon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=MATLAB])](https://github.com/clasesucatmarlon/github-readme-stats)
 
 
