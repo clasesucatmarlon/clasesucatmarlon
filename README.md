@@ -33,4 +33,11 @@ const magm = {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=clasesucatmarlon)](https://github.com/clasesucatmarlon/github-readme-stats)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clasesucatmarlon=true&hide_border=true)
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+
+
+
