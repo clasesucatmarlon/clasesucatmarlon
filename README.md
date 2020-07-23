@@ -13,7 +13,6 @@
 ```
 # lenguaje python
 const magm = {
-  pronouns: "her",
   code: [C, Python, HTML, CSS, script bash],
   tools: [vagrant],
   architecture: ["web infraestructure"],
