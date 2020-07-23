@@ -23,7 +23,7 @@ const magm = {
 ```
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=C, Python, javascript,html, CSS, Sheel])](https://github.com/clasesucatmarlon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
 
 <br><br>
 
