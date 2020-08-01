@@ -14,14 +14,17 @@
 - 👨‍💻 All of my projects are available at (https://github.com/clasesucatmarlon)
 
 
-```
-# lenguaje python
-const magm = {
-  code: ["C", "Python", "HTML", "CSS", "script bash"],
-  tools: ["VS Code", "Emacs", "Vim", "Github", "vagrant"],
-  architecture: ["web infraestructure"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on python",
-  email: ["clasesucatmarlon@gmail.com", "gmarlonaurelio@gmail.com"],
+## About me
+```javascript
+const MARLON = {
+  skills: ["HTML", "CSS", "JS", "C", "Bash"],
+  tools: ["VS Code", "Vagrant", "Emacs", "Vim", "Github"],
+  learning: ["Javascript", "Django"]
+  challenge: "I'm solving a daily challenge in HackerRank using Python",
+  email: "clasesucatmarlon@gmail.com",
+  funFact: "Passionate about video games",
+  myArticles: "https://www.linkedin.com/in/marlonagarciam/",
+  portfolio: "Under construction"
 }
 ```
 
