@@ -1,13 +1,16 @@
+![banner1](https://user-images.githubusercontent.com/60376045/89105505-524e7100-d3e7-11ea-9459-966119ea226d.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Marlon García</h1>
+<h1 align="center">Hi 👋, I'm Marlon</h1>
 
 👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira (Class of 1996) </br>
 👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela (Class of 2001)
 
 
-<h3 align="center">A passionate developer from Venezuela in Colombia</h3>
+<h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
 - 👨‍💻 All of my projects are available at (https://github.com/clasesucatmarlon)
 
 
@@ -29,14 +32,6 @@ const magm = {
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
-
-
-
-
-
-
-
-
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
