@@ -14,9 +14,6 @@
 - 👨‍💻 All of my projects are available at (https://github.com/clasesucatmarlon)
 
 
-
-
-
 ```
 # lenguaje python
 const magm = {
@@ -28,14 +25,9 @@ const magm = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
 
-
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
-
 
 <p align="center">
 <a href="https://twitter.com/@garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@garciamarlon" height="25" width="25" /></a>
@@ -44,6 +36,3 @@ const magm = {
 <a href="https://instagram.com/clasesmarlongarcia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clasesmarlongarcia" height="25" width="25" /></a>
 <a href="https://www.youtube.com/channel/UCDq0Rtagu5yrjMRkPXRB6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="25" width="25" /></a>
 </p>
-
-
-
