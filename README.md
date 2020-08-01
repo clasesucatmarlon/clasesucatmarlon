@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Marlon García</h1>
 
 👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira (Class of 1996) </br>
