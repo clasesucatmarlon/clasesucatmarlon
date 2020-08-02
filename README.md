@@ -6,8 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 
-👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira (Class of 1996) </br>
-👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela (Class of 2001)
+👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira</br>
+👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela
 
 
 <h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
