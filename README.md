@@ -16,7 +16,7 @@
 ## About me
 ```javascript
 const MARLON = {
-  skills: ["HTML", "CSS", "JS", "C", "Bash"],
+  skills: ["HTML", "CSS", "JS", "C", "Python", "Bash"],
   tools: ["VS Code", "Vagrant", "Emacs", "Vim", "Github"],
   learning: ["Javascript", "Django"]
   challenge: "I'm solving a daily challenge in HackerRank using Python",
