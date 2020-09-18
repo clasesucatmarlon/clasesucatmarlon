@@ -18,9 +18,9 @@
 const MARLON = {
   skills: ["HTML", "CSS", "JS", "C", "Python", "Bash", "MySQL"],
   technologies: {"fronEnd": "Bootstrap", "BackEnd": "Flask"},
-  databases: ["MySQL"]
+  databases: ["MySQL"],
   tools: ["VS Code", "Vagrant", "Emacs", "Vim", "Github"],
-  learning: ["React", "Django", "MongoDB"]
+  learning: ["React", "Django", "MongoDB"],
   challenge: "I'm solving a daily challenge in HackerRank using Python",
   email: "clasesucatmarlon@gmail.com",
   funFact: "Passionate about video games",
