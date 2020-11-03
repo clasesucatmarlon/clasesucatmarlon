@@ -32,7 +32,7 @@ const MARLON = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&hide=javascript,html])](https://github.com/clasesucatmarlon/github-readme-stats)
 
 ## My skills
-<p align="left">
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
@@ -45,7 +45,5 @@ const MARLON = {
 <p align="center">
 <a href="https://twitter.com/@garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@garciamarlon" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marlonagarciam/" height="25" width="25" /></a>
-<a href="https://fb.com/gmarlonaurelio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gmarlonaurelio" height="25" width="25" /></a>
-<a href="https://instagram.com/clasesmarlongarcia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clasesmarlongarcia" height="25" width="25" /></a>
-<a href="https://www.youtube.com/channel/UCDq0Rtagu5yrjMRkPXRB6dg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="25" width="25" /></a>
+<a href="https://www.youtube.com/marlongarciateacher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdq0rtagu5yrjmrkpxrb6dg?view_as=subscriber" height="25" width="25" /></a>
 </p>
