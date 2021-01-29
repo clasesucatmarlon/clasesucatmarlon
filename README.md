@@ -14,7 +14,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
 
-## About me
+
+<h3 align="left">About me:</h3>
 - 🌱 **I’m currently learning** ReactJS, NodeJS
 
 - 👨‍💻 **All of my projects are available at** [https://clasesucatmarlon.github.io/portafolioMG/](https://clasesucatmarlon.github.io/portafolioMG/)
@@ -26,7 +27,7 @@
 - 📫 **How to reach me** clasesucatmarlon@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/https://twitter.com/garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/garciamarlon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
