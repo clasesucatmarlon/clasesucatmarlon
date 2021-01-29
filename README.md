@@ -1,4 +1,4 @@
-![banner1](https://user-images.githubusercontent.com/60376045/106330624-8d741480-6251-11eb-88db-1ed9d535a75f.jpg)
+![banner1](https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p>
