@@ -46,5 +46,5 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clasesucatmarlon&show_icons=true&locale=en&layout=compact" alt="clasesucatmarlon" /></p><br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clasesucatmarlon&show_icons=true&locale=en" alt="clasesucatmarlon" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clasesucatmarlon&show_icons=true&locale=en" alt="clasesucatmarlon" /></p>
 
