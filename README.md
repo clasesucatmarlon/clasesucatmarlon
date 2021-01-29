@@ -28,11 +28,11 @@
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/garciamarlon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
+<a href="https://twitter.com/garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/garciamarlon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/marlongarciateacher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/clasesucatmarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="clasesucatmarlon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/clasesucatmarlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/clasesucatmarlon/" height="30" width="40" /></a>
+<a href="https://leetcode.com/clasesucatmarlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/clasesucatmarlon/" height="30" width="40" /></a>
 </p>
 
 <br><h3 align="left">Languages and Tools:</h3>
