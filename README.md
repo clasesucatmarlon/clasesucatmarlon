@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg" alt="tecnology" height="200px" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg" alt="tecnology" height="200px" width="800px" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
 <p align="left"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p>
