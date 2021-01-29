@@ -1,7 +1,8 @@
 ![banner1](https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
+<p align="left"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p>
 
 
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
@@ -42,9 +43,9 @@
 <p><a href="https://www.buymeacoffee.com/marlongarcia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marlongarcia" /></a></p><br><br>
 
 <br><h2 align="center">Statistics</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clasesucatmarlon&" alt="clasesucatmarlon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clasesucatmarlon&" alt="clasesucatmarlon" /></p><br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clasesucatmarlon&show_icons=true&locale=en&layout=compact" alt="clasesucatmarlon" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clasesucatmarlon&show_icons=true&locale=en&layout=compact" alt="clasesucatmarlon" /></p><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clasesucatmarlon&show_icons=true&locale=en" alt="clasesucatmarlon" /></p><br><br>
 
