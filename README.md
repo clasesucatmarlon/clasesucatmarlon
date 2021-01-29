@@ -7,22 +7,23 @@
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira</br>
-👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela
+👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira, Venezuela</br>
+👨‍🎓 Information Systems Specialist from Catholic University Andrés Bello, Venezuela
 <h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+## About me
+- 🌱 **I’m currently learning** ReactJS, NodeJS
 
-- 👨‍💻 All of my projects are available at [https://clasesucatmarlon.github.io/portafolioMG/](https://clasesucatmarlon.github.io/portafolioMG/)
+- 👨‍💻 **All of my projects are available at** [https://clasesucatmarlon.github.io/portafolioMG/](https://clasesucatmarlon.github.io/portafolioMG/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/marlonagarciam/](https://www.linkedin.com/in/marlonagarciam/)
+- 📝 **I regularly write articles on** [https://www.linkedin.com/in/marlonagarciam/](https://www.linkedin.com/in/marlonagarciam/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Python, Javascript**
+- 💬 **Ask me about** HTML, CSS, Bootstrap, Python, Javascript
 
-- 📫 How to reach me **clasesucatmarlon@gmail.com**
+- 📫 **How to reach me** clasesucatmarlon@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
