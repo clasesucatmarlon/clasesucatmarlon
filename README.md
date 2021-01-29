@@ -42,9 +42,9 @@
 <p><a href="https://www.buymeacoffee.com/marlongarcia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marlongarcia" /></a></p><br><br>
 
 <br><h3 align="left">Statistics:</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clasesucatmarlon&show_icons=true&locale=en&layout=compact" alt="clasesucatmarlon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clasesucatmarlon&" alt="clasesucatmarlon" /></p>
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clasesucatmarlon&show_icons=true&locale=en&layout=compact" alt="clasesucatmarlon" /></p><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clasesucatmarlon&show_icons=true&locale=en" alt="clasesucatmarlon" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clasesucatmarlon&" alt="clasesucatmarlon" /></p>
 
