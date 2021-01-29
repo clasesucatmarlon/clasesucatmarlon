@@ -1,15 +1,15 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg" alt="tecnology" height="350px" width="900px" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
-<p align="left"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p>
-
 
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira, Venezuela</br>
 👨‍🎓 Information Systems Specialist from Catholic University Andres Bello, Venezuela
-<h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
+<h3 align="center">A passionate developer web from Venezuela in Colombia</h3><br>
+
+<p align="left"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p><br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
