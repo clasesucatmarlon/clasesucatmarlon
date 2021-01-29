@@ -9,10 +9,10 @@
 👨‍🎓 Information Systems Specialist from Catholic University Andres Bello, Venezuela
 <h3 align="center">A passionate developer web from Venezuela in Colombia</h3><br>
 
-<p align="left"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p><br>
+<p align="center"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p><br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" /></a> </p>
 
 
 <br><h2 align="left">About me:</h2>
