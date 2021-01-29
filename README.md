@@ -12,7 +12,7 @@
 <h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
 
 
-https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&column=3&margin-w=15&margin-h=15
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
