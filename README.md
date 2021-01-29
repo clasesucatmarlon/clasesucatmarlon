@@ -7,7 +7,10 @@
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucatmarlon&label=Profile%20views&color=0e75b6&style=flat" alt="clasesucatmarlon" /> </p>
+👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira</br>
+👨‍🎓 Information Systems Specialist from Andrés Bello University, Venezuela
+<h3 align="center">A passionate developer web from Venezuela in Colombia</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon" alt="clasesucatmarlon" /></a> </p>
 
