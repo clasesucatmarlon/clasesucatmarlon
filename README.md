@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
 
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">I'm a developer from Venezuela</h3>
 
 <p align="center">👨‍🎓 Degree in Education, major in Computer Science and Mathematic from the Catholic University of Tachira, Venezuela</p>
 <p align="center">👨‍🎓 Information Systems Specialist from Catholic University Andres Bello, Venezuela</p>
