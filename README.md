@@ -22,7 +22,7 @@
 
 - 📝 **I regularly write articles on** [https://www.linkedin.com/in/marlonagarciam/](https://www.linkedin.com/in/marlonagarciam/)
 
-- 💬 **Ask me about** HTML, CSS, Bootstrap, Python, Javascript
+- 💬 **Ask me about** HTML, CSS, Sass, Bootstrap, Python, Javascript, Git, GitHub
 
 - 📫 **How to reach me** clasesucatmarlon@gmail.com
 
