@@ -5,7 +5,7 @@
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<p align="center">👨‍🎓 Degree in Education, mention in Computer Science and Mathematics from the Catholic University of Tachira, Venezuela</p>
+<p align="center">👨‍🎓 Degree in Education, major in Computer Science and Mathematics from the Catholic University of Tachira, Venezuela</p>
 <p align="center">👨‍🎓 Information Systems Specialist from Catholic University Andres Bello, Venezuela</p>
 <h3 align="center">A passionate developer web from Venezuela in Colombia</h3><br>
 
