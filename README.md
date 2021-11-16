@@ -7,7 +7,7 @@
 
 <p align="center">👨‍🎓 Degree in Education, major in Computer Science and Mathematic from the Catholic University of Tachira, Venezuela</p>
 <p align="center">👨‍🎓 Information Systems Specialist from Catholic University Andres Bello, Venezuela</p>
-<h3 align="center">A passionate developer web from Venezuela in Colombia</h3><br>
+
 
 <p align="center"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p><br>
 
