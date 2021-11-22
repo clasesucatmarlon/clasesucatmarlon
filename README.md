@@ -11,6 +11,15 @@
 
 <p align="center"> <a href="https://twitter.com/garciamarlon" target="blank"><img src="https://img.shields.io/twitter/follow/garciamarlon?logo=twitter&style=for-the-badge" alt="garciamarlon" /></a> </p><br>
 
+<br><h3 align="center">Contact me by</h3>
+<p align="center">
+<a href="https://twitter.com/garciamarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/garciamarlon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marlonagarciam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/marlongarciateacher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.linkedin.com/in/marlonagarciam/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/clasesucatmarlon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="clasesucatmarlon" height="30" width="40" /></a>
+<a href="https://leetcode.com/clasesucatmarlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/clasesucatmarlon/" height="30" width="40" /></a>
+</p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" /></a> </p>
 
