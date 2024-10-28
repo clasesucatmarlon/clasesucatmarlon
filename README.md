@@ -81,15 +81,15 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
   <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" /></a> -->
 </p>
-
-
-
      
   </td>
  </tr>
 
 </table>
 
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=clasesucatmarlon)](https://github.com/ryo-ma/github-profile-trophy)
 
