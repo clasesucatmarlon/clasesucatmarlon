@@ -17,9 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /><br>
 </div>
 
-
-
-
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">I'm a developer from Venezuela</h3>
 
