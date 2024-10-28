@@ -79,7 +79,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=clasesucatmarlon"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasesucatmarlon&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" /></a>
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" /></a> -->
 </p>
 
 
