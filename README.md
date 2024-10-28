@@ -87,14 +87,11 @@
 
 </table>
 
-<div>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=clasesucatmarlon)](https://github.com/ryo-ma/github-profile-trophy) -->
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
 <img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=1&column=8" alt="clasesucatmarlon" />
 
-
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 <br><h3 align="center">You want to make a donation</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/marlongarcia"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marlongarcia" /></a></p>
