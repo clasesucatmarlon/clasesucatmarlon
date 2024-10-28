@@ -17,7 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /><br>
 </div>
 
-<h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
+<h1 align="center">Hi !!!!!👋, I'm Marlon García <img src="https://private-user-images.githubusercontent.com/60376045/380877083-24eb7220-e3f8-4aa7-a423-845986aba8c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNDY4MDAsIm5iZiI6MTczMDE0NjUwMCwicGF0aCI6Ii82MDM3NjA0NS8zODA4NzcwODMtMjRlYjcyMjAtZTNmOC00YWE3LWE0MjMtODQ1OTg2YWJhOGMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI4VDIwMTUwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViNjUwM2IyMTg1YjA1MWQwMzZkNzdkNTJkMDZmN2JjZWMxNGVkY2E1YzJkYTY4YWQ2YjI3NzMwODY1NDZjZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.r7sur6d29dXJZBi1dfpS_p34VRWBmqpyV6eFYsVcpUg" width="60px" />  </h1>
+
+
 <h3 align="center">I'm a developer from Venezuela</h3>
 
 <p align="center">👨‍🎓 Degree in Education, major in Computer Science and Mathematic from the Catholic University of Tachira, Venezuela</p>
