@@ -13,9 +13,6 @@
 <a href="mailto:clasesucatmarlon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
-</a>
 </div>
 
 </div>
