@@ -2,6 +2,22 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+<a href="https://linkedin.com/in/marlonagarciam/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/shaunak_chandra/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="mailto:aqchandra15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://leetcode.com/aqchandra15/">
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
+</div>
+
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/60376045/106330979-302c9300-6252-11eb-89b1-4f74af4b4ead.jpg" alt="tecnology" height="350px" width="900px" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
