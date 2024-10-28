@@ -14,11 +14,11 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /><br>
 </div>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clasesucarmarlon" alt="clasesucarmarlon" /> </p><br>
 
 <h1 align="center">Hi !!!!!👋, I'm Marlon García</h1>
 <h3 align="center">I'm a developer from Venezuela</h3>
