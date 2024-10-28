@@ -71,7 +71,12 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)&nbsp;
 
 #### Education
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)&nbsp;
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=grey)&nbsp;
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)&nbsp;
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat&logo=exercism&logoColor=white)&nbsp;
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)&nbsp;
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flate&logo=Udemy&logoColor=white)&nbsp;
      
 </td>
 <td>
