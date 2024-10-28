@@ -88,13 +88,10 @@
   </td>
  </tr>
 
- <tr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=clasesucatmarlon)](https://github.com/ryo-ma/github-profile-trophy)
-   
- </tr>
 </table>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=clasesucatmarlon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br><h3 align="center">You want to make a donation</h3>
