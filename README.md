@@ -65,8 +65,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
      
-    </td>
-  <td>
+</td>
+<td>
   
 ## 📄📜 Stats
 
