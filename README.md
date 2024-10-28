@@ -92,7 +92,7 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=2&column=4" alt="clasesucatmarlon" />
+<img src="https://github-profile-trophy.vercel.app/?username=clasesucatmarlon&row=1&column=8" alt="clasesucatmarlon" />
 
 
 
